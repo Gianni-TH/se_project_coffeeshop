@@ -31,7 +31,7 @@
   height: 39px;
 }
 
-.nav_links {
+.nav__links {
   display: flex;
   justify-content: space-between;
   gap: 20px;
@@ -44,7 +44,7 @@
   line-height: 20px;
 }
 
-.nav_link {
+.nav__link {
   list-style: none;
   text-decoration: none;
   color: #000
